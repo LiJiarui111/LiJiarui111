@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiarui Li @LiJiarui111
-- 👀 I’m interested in Robotics, Multi-agent Interaction (collective intelligence, game theory) and Computer Vision
+- 👀 I’m interested in Robotics, Multi-agent Interaction (collective intelligence, game theory), Computer Vision and Machine Learning
 - 🌱 I’m currently an undergraduate student at the College of Engineering at Peking University, majoring in robotics engineering. 
 - 💞️ I will receive my B.E. from Peking University in 2024. 
 - 📫 My Email is lijiarui@pku.edu.cn and my website is https://jrli.org/, where you can find more information about my publications and past research projects. 
